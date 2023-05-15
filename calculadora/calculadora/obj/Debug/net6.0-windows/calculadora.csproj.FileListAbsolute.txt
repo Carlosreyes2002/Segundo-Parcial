@@ -1,0 +1,10 @@
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.csproj.AssemblyReference.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\calculadora\calculadora\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\calculadora\calculadora\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\calculadora\calculadora\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora_MarkupCompile.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.g.resources
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.AssemblyInfoInputs.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.AssemblyInfo.cs
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.csproj.CoreCompileInputs.cache

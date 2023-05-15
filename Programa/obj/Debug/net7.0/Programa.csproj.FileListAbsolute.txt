@@ -1,0 +1,15 @@
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\bin\Debug\net7.0\Programa.exe
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\bin\Debug\net7.0\Programa.deps.json
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\bin\Debug\net7.0\Programa.runtimeconfig.json
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\bin\Debug\net7.0\Programa.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\bin\Debug\net7.0\Programa.pdb
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\obj\Debug\net7.0\Programa.csproj.AssemblyReference.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\obj\Debug\net7.0\Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\obj\Debug\net7.0\Programa.AssemblyInfoInputs.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\obj\Debug\net7.0\Programa.AssemblyInfo.cs
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\obj\Debug\net7.0\Programa.csproj.CoreCompileInputs.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\obj\Debug\net7.0\Programa.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\obj\Debug\net7.0\refint\Programa.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\obj\Debug\net7.0\Programa.pdb
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\obj\Debug\net7.0\Programa.genruntimeconfig.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial 2\Programa\obj\Debug\net7.0\ref\Programa.dll
